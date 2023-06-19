@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 1
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 2
+    }
+  ]
+}
