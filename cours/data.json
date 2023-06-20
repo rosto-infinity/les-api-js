@@ -1,19 +1,15 @@
 
 {
-    "workbench.iconTheme": "vscode-icons",
-    "[dart]": {
-      "editor.formatOnSave": true,
-      "editor.formatOnType": true,
-      "editor.rulers": [
-        80
-      ],
-      "editor.selectionHighlight": false,
-      "editor.suggest.snippetsPreventQuickSuggestions": false,
-      "editor.suggestSelection": "first",
-      "editor.tabCompletion": "onlySnippets",
-      "editor.wordBasedSuggestions": false
-    },
-    "editor.fontFamily": "Fira Code iScript"
+  
+    "content": {
+      "text_head": "Une blonde rentre dans une épicerie, et va au rayon légumes.",
+      "text": "Elle demande :\n- Je voudrais 5 kg de patates, s'il vous plaît.\n- Des grosses ou des petites ?\n- Mettez moi des petites, ça sera moins lourd à porter...",
+      "text_hidden": "",
+      "source": null,
+      "media": null,
+      "embed": null,
+      "recommend_align": "justify"
+    }
     
 
 }
