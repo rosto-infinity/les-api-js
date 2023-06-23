@@ -1,0 +1,124 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 2
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 3
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 4
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 5
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 6
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 7
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 8
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 9
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 10
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 11
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 12
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 13
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 14
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 15
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 16
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 17
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 18
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 19
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 20
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 21
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 22
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

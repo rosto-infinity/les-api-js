@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 1
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 2
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 3
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 4
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 5
+    },
+    {
+      "pseudo": "rostodev",
+      "message": "yo les gens !",
+      "id": 6
+    }
+  ]
+}
